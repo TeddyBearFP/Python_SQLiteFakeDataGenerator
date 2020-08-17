@@ -21,7 +21,7 @@ pip3 install fake2db
 ### 使用 fake2db
 每次取得 faker 的函式回傳值皆會是函式隨機產生後回傳的每次不一樣
 
-```python=
+```python
 from faker import Faker
 
 fake = Faker()
