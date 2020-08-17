@@ -53,7 +53,7 @@ EMail: mbaxter@yahoo.com
 用 faker 函式創建假的會員資料
 
 fakeDataNumber 填入欲產出的假資料數量
-```python=
+```python
 from faker import Faker
 import random
 import time
